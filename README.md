@@ -1,0 +1,2 @@
+# DiscoverChallenge
+Sum of Primes
